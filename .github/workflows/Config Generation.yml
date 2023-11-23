@@ -12,7 +12,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/shuiyuechangchun/openwrt-gl-ax1800
+  REPO_URL: https://github.com/wzywzy74/openwrt-gl-ax1800
   REPO_BRANCH: master
   CONFIG_FILE: ax5-.config
   DIY_P1_SH: diy-part1.sh
